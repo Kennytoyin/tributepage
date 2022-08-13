@@ -1,0 +1,36 @@
+body{
+    background: blanchedalmond;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+#work{
+    text-align: center;
+    font-size: 20px;
+    font-style: initial;
+}
+img{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+figcaption{
+    text-align: center;
+    font-size:large;
+    font-weight: 700;
+    font-style: italic;
+}
+h3, h4{
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    font-size: 22px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
